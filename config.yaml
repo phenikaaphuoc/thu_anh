@@ -1,0 +1,12 @@
+skip_frame: 1
+thresh_frame_action: 1
+thresh_frame_no_action: 2
+rate_up: 0.14
+input_folder: E:/dataset
+out_folder: E:/PhuocOutPutSplit
+out_fps: 10
+start: 5
+end: 100
+image:
+  w: 1280
+  h: 720
